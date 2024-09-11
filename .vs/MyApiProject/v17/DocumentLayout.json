@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 Cursos\\Vs2022Projects\\WebApi3\\MyApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E076578-BBB5-4812-8550-735F55FEEFA2}|MyApiProject\\MyApiProject.csproj|d:\\1 cursos\\vs2022projects\\webapi3\\myapiproject\\myapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E076578-BBB5-4812-8550-735F55FEEFA2}|MyApiProject\\MyApiProject.csproj|solutionrelative:myapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E076578-BBB5-4812-8550-735F55FEEFA2}|MyApiProject\\MyApiProject.csproj|d:\\1 cursos\\vs2022projects\\webapi3\\myapiproject\\myapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E076578-BBB5-4812-8550-735F55FEEFA2}|MyApiProject\\MyApiProject.csproj|solutionrelative:myapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E076578-BBB5-4812-8550-735F55FEEFA2}|MyApiProject\\MyApiProject.csproj|d:\\1 cursos\\vs2022projects\\webapi3\\myapiproject\\myapiproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E076578-BBB5-4812-8550-735F55FEEFA2}|MyApiProject\\MyApiProject.csproj|solutionrelative:myapiproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F61A661-C8FA-4CBF-8345-03C91C61D3E4}|MyApiProjectTests\\MyApiProjectTests.csproj|d:\\1 cursos\\vs2022projects\\webapi3\\myapiproject\\myapiprojecttests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F61A661-C8FA-4CBF-8345-03C91C61D3E4}|MyApiProjectTests\\MyApiProjectTests.csproj|solutionrelative:myapiprojecttests\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F61A661-C8FA-4CBF-8345-03C91C61D3E4}|MyApiProjectTests\\MyApiProjectTests.csproj|d:\\1 cursos\\vs2022projects\\webapi3\\myapiproject\\myapiprojecttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F61A661-C8FA-4CBF-8345-03C91C61D3E4}|MyApiProjectTests\\MyApiProjectTests.csproj|solutionrelative:myapiprojecttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\1 Cursos\\Vs2022Projects\\WebApi3\\MyApiProject\\MyApiProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyApiProject\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\1 Cursos\\Vs2022Projects\\WebApi3\\MyApiProject\\MyApiProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyApiProject\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T02:05:38.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\1 Cursos\\Vs2022Projects\\WebApi3\\MyApiProject\\MyApiProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MyApiProject\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\1 Cursos\\Vs2022Projects\\WebApi3\\MyApiProject\\MyApiProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MyApiProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:55:49.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 Cursos\\Vs2022Projects\\WebApi3\\MyApiProject\\MyApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "MyApiProject\\Program.cs",
+              "ToolTip": "D:\\1 Cursos\\Vs2022Projects\\WebApi3\\MyApiProject\\MyApiProject\\Program.cs",
+              "RelativeToolTip": "MyApiProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:55:17.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepositoryTests.cs",
+              "DocumentMoniker": "D:\\1 Cursos\\Vs2022Projects\\WebApi3\\MyApiProject\\MyApiProjectTests\\ProductRepositoryTests.cs",
+              "RelativeDocumentMoniker": "MyApiProjectTests\\ProductRepositoryTests.cs",
+              "ToolTip": "D:\\1 Cursos\\Vs2022Projects\\WebApi3\\MyApiProject\\MyApiProjectTests\\ProductRepositoryTests.cs",
+              "RelativeToolTip": "MyApiProjectTests\\ProductRepositoryTests.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvzIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:50:29.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\1 Cursos\\Vs2022Projects\\WebApi3\\MyApiProject\\MyApiProjectTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MyApiProjectTests\\UnitTest1.cs",
+              "ToolTip": "D:\\1 Cursos\\Vs2022Projects\\WebApi3\\MyApiProject\\MyApiProjectTests\\UnitTest1.cs",
+              "RelativeToolTip": "MyApiProjectTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:49:47.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

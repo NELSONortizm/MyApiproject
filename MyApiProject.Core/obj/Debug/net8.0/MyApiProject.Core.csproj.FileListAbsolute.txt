@@ -1,0 +1,5 @@
+D:\1 Cursos\Vs2022Projects\WebApi3\MyApiProject\MyApiProject.Core\obj\Debug\net8.0\MyApiProject.Core.csproj.AssemblyReference.cache
+D:\1 Cursos\Vs2022Projects\WebApi3\MyApiProject\MyApiProject.Core\obj\Debug\net8.0\MyApiProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 Cursos\Vs2022Projects\WebApi3\MyApiProject\MyApiProject.Core\obj\Debug\net8.0\MyApiProject.Core.AssemblyInfoInputs.cache
+D:\1 Cursos\Vs2022Projects\WebApi3\MyApiProject\MyApiProject.Core\obj\Debug\net8.0\MyApiProject.Core.AssemblyInfo.cs
+D:\1 Cursos\Vs2022Projects\WebApi3\MyApiProject\MyApiProject.Core\obj\Debug\net8.0\MyApiProject.Core.csproj.CoreCompileInputs.cache
